@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(30, 96, 218);
+}
+
+h1{
+    color: rgb(238, 255, 0);
+    background-color: blueviolet;
+}
+
+p{
+    color: rgb(238, 255, 0);
+}
+
+
+img{
+    width: 500px;
+}
+
+#pName{
+    color:aquamarine
+}
+
